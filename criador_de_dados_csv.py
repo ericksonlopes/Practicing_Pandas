@@ -1,12 +1,18 @@
+import random
 from faker import Faker
 
 fake = Faker('pt-br')
 
-for item in dir(fake):
-    print(item)
-print(fake.estado_sigla())
+generos_muscais = ['Axé', 'Blues', 'Country', 'Eletrônica', 'Forró', 'Funk', 'Gospel', 'Hip Hop' ]
 
-print()
+with open('data.csv', 'w',  encoding='utf-8') as arquivo:
+    arquivo.write('nome,idade,email,uf,genero musical,linguagem\n')
 
-# with open('data.csv', encoding='utf-8') as arquivo:
-#     arquivo.write('nome,idade,email,telefone,uf,genero musical,')
+    for item in range(40):
+        linha = f'{fake.name()}, ' \
+                f'{fake.random.randint(18, 100)}, ' \
+                f'{fake.email()}, ' \
+                f'{fake.estado_sigla()},' \
+                f'{random.choice(generos_muscais)},' \
+                f'{random.choice(["Python", "Java"])} \n'
+        arquivo.write(linha)
