@@ -1,41 +1,41 @@
 nome,idade,email,uf,genero_musical,linguagem
-Olivia Ribeiro, 70, ferreirahelena@yahoo.com.br, BA,Eletrônica,Python 
-Dra. Maria Vitória Ramos, 20, augustofarias@barros.br, AM,Axé,Java 
-Paulo Nascimento, 45, rodrigocardoso@hotmail.com, RR,Música clássica,Java 
-Daniel Sales, 63, da-matamaria@martins.com, AM,Samba,Java 
-Laura Almeida, 54, marcos-viniciusda-cruz@yahoo.com.br, GO,Forró,Python 
-Dra. Carolina Moraes, 65, azevedojoao@bol.com.br, MA,Funk,Java 
-Brenda da Cruz, 27, almeidaleandro@nogueira.br, SE,Pagode,Java 
-Murilo Ferreira, 18, jesuskevin@da.com, SC,Axé,Java 
-Alexia Rocha, 55, ferreirakaique@monteiro.br, PE,Música clássica,Java 
-Kaique Moreira, 18, wda-conceicao@silva.com, MS,Sertanejo,Python 
-Nathan Ramos, 69, fariasana-clara@rocha.com, MS,Funk,Java 
-Antônio Correia, 67, uaragao@cardoso.org, AM,Música clássica,Java 
-Mariane Aragão, 42, nataliamoreira@bol.com.br, ES,Reggae,Java 
-Laura Rezende, 30, yasminporto@yahoo.com.br, SE,Rap,Python 
-Emanuelly Castro, 49, wcorreia@campos.br, RO,Hip Hop,Python 
-Maria Eduarda Farias, 52, mariana51@carvalho.com, BA,Gospel,Python 
-Enzo Gomes, 54, zgomes@costa.com, PE,Hip Hop,Java 
-Davi Luiz Aragão, 36, vicentesouza@da.br, RS,Rap,Python 
-Lorenzo Moraes, 54, ana-laurada-conceicao@bol.com.br, MG,Country,Python 
-João Lucas Cardoso, 48, calebe84@uol.com.br, SE,Blues,Python 
-Luiz Miguel Campos, 45, antonio22@ig.com.br, PR,Funk,Python 
-Rafaela Ribeiro, 51, vitor-hugojesus@costa.net, ES,Country,Java 
-Raul Araújo, 19, alvescaua@oliveira.br, SC,Música clássica,Python 
-Bernardo Viana, 23, arezende@ig.com.br, AL,Eletrônica,Python 
-Yuri Rodrigues, 58, diasbruno@hotmail.com, PR,Música clássica,Java 
-Carolina Castro, 38, ynunes@ig.com.br, PI,Reggae,Java 
-Luna Mendes, 63, thiago74@gmail.com, SE,Rock,Python 
-Stella da Cunha, 22, danielsantos@yahoo.com.br, PB,Hip Hop,Java 
-Bianca Monteiro, 54, luiz-otavio49@hotmail.com, GO,Sertanejo,Python 
-Ian Rodrigues, 21, gsouza@goncalves.br, SE,Jazz,Python 
-Bryan da Cunha, 68, isabelcardoso@gomes.br, AC,Pop,Java 
-Sr. Matheus da Rosa, 69, uduarte@gmail.com, MA,MPB,Java 
-Mirella da Mota, 52, xgoncalves@hotmail.com, PI,Pagode,Java 
-Luiz Gustavo Sales, 53, marcos-vinicius12@costa.br, DF,Samba,Python 
-Stella da Mata, 26, pda-cruz@correia.br, RR,Hip Hop,Java 
-Evelyn Cardoso, 20, castrolavinia@costela.br, CE,Samba,Python 
-Larissa Porto, 57, luiz-gustavooliveira@hotmail.com, PB,Rap,Java 
-Carolina Jesus, 55, freitasolivia@pinto.br, AP,Pop,Java 
-Sr. João Gabriel Souza, 56, caroline87@ribeiro.net, PA,Samba,Python 
-Felipe Ribeiro, 62, sophia84@gmail.com, SC,Pop,Java 
+Maria Fernanda Ribeiro,25,rezenderebeca@melo.com,PB,Country,Java
+Marina Aragão,22,stella84@hotmail.com,SP,Country,Python
+Dra. Heloísa Barbosa,36,oda-luz@ig.com.br,RS,Funk,Python
+Ana Sophia Sales,68,fteixeira@farias.br,RJ,Rap,Python
+Sra. Luiza Castro,29,daniela07@bol.com.br,RR,Eletrônica,Python
+Pedro Jesus,42,smartins@souza.br,RN,Eletrônica,Java
+Isabel Fernandes,68,joao-pedro81@cavalcanti.org,SC,Forró,Java
+Lorena Moura,25,marianada-conceicao@nogueira.br,AL,Country,Python
+Gabriel Teixeira,46,da-pazpedro-henrique@hotmail.com,RO,Pagode,Python
+Samuel Oliveira,27,ycostela@ig.com.br,CE,Eletrônica,Java
+Stephany Lima,21,fporto@gmail.com,PB,Forró,Python
+Ana Gomes,50,hsales@hotmail.com,RN,Pop,Java
+Daniela Carvalho,64,julianaramos@goncalves.net,ES,Blues,Python
+Luigi Jesus,59,samuel45@novaes.com,MT,Pop,Python
+Dr. Leonardo Dias,67,stellaoliveira@yahoo.com.br,RO,Eletrônica,Java
+Maria Eduarda Martins,59,monteirolucas@gmail.com,SC,Forró,Python
+Heloísa Fogaça,40,martinsyuri@teixeira.net,SP,Sertanejo,Python
+Renan Dias,35,oliveiragustavo@ig.com.br,PA,Country,Python
+Maria Alice Viana,57,ida-costa@fernandes.com,GO,Hip Hop,Java
+Marcos Vinicius Cavalcanti,68,juliananascimento@farias.net,PI,Reggae,Java
+Dr. Luiz Henrique Gomes,49,daniel23@gomes.com,RO,Pop,Python
+Sr. Heitor Silveira,62,umoraes@cardoso.br,PB,MPB,Python
+Julia Freitas,45,esther66@moura.net,GO,Blues,Python
+Bárbara Azevedo,48,joao-pedro97@cavalcanti.com,DF,Hip Hop,Java
+Srta. Isadora Monteiro,48,salesemanuelly@da.org,PE,Axé,Java
+Fernanda Lopes,18,nda-cunha@ig.com.br,MS,Blues,Java
+Srta. Stephany Nogueira,23,lorena13@barros.br,MA,Pop,Python
+Maria Clara Nascimento,38,caldeiralucas@uol.com.br,AM,Gospel,Python
+Julia Silva,38,sophiemelo@da.br,AC,Jazz,Python
+Kamilly Cardoso,62,correialara@goncalves.br,MG,Funk,Java
+Bryan Mendes,36,carvalholucca@hotmail.com,AP,Música clássica,Java
+Rafaela Martins,41,oduarte@ig.com.br,PA,Rap,Java
+Sr. Ian Campos,54,yurigomes@uol.com.br,AP,Música clássica,Java
+Júlia Moreira,59,nina76@da.com,RJ,Rap,Java
+Emanuelly Vieira,64,cribeiro@rodrigues.org,DF,Música clássica,Java
+Gustavo Henrique Lima,22,joao-guilhermenascimento@uol.com.br,SE,Forró,Java
+Srta. Maria Julia Rocha,52,ryan06@yahoo.com.br,SC,Jazz,Python
+Alícia Gomes,54,pedrogomes@yahoo.com.br,AL,Música clássica,Python
+Davi Lucas Lopes,41,ribeiroyuri@oliveira.org,DF,Forró,Java
+João Lucas Barbosa,53,diasjuliana@hotmail.com,CE,Country,Python
