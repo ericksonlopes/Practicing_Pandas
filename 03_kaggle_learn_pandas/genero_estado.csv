@@ -1,0 +1,171 @@
+estado,genero_musical,len
+Acre,Blues,1
+Acre,Eletrônica,1
+Acre,Forró,1
+Acre,Funk,2
+Acre,Gospel,1
+Acre,Jazz,1
+Acre,MPB,1
+Acre,Pop,1
+Acre,Rap,1
+Alagoas,Blues,1
+Alagoas,Country,1
+Alagoas,Jazz,1
+Alagoas,MPB,1
+Alagoas,Música clássica,2
+Alagoas,Rap,1
+Alagoas,Rock,1
+Alagoas,Sertanejo,1
+Amapá,Country,1
+Amapá,Funk,1
+Amapá,Gospel,1
+Amapá,Jazz,2
+Amapá,Pop,1
+Amapá,Samba,1
+Amazonas,Eletrônica,1
+Amazonas,Funk,1
+Amazonas,Gospel,2
+Amazonas,Sertanejo,1
+Bahia,Blues,4
+Bahia,Country,2
+Bahia,Eletrônica,1
+Bahia,MPB,1
+Bahia,Pagode,1
+Bahia,Sertanejo,1
+Ceará,Axé,1
+Ceará,Country,1
+Ceará,Eletrônica,1
+Ceará,Funk,1
+Ceará,Hip Hop,1
+Ceará,Rock,1
+Distrito Federal,Eletrônica,2
+Distrito Federal,Funk,2
+Distrito Federal,Reggae,1
+Distrito Federal,Rock,1
+Distrito Federal,Samba,1
+Espírito Santo,Blues,2
+Espírito Santo,Forró,1
+Espírito Santo,MPB,1
+Espírito Santo,Música clássica,1
+Espírito Santo,Rap,1
+Espírito Santo,Rock,1
+Espírito Santo,Samba,1
+Goiás,Axé,2
+Goiás,Blues,1
+Goiás,Country,1
+Goiás,Forró,2
+Goiás,Funk,1
+Goiás,Hip Hop,1
+Goiás,Jazz,1
+Goiás,Música clássica,1
+Goiás,Pagode,1
+Goiás,Pop,1
+Goiás,Rock,2
+Maranhão,Forró,1
+Maranhão,Gospel,1
+Maranhão,Hip Hop,1
+Maranhão,MPB,1
+Maranhão,Música clássica,1
+Maranhão,Rap,1
+Maranhão,Rock,1
+Maranhão,Samba,1
+Maranhão,Sertanejo,1
+Mato Grosso,Hip Hop,1
+Mato Grosso,MPB,2
+Mato Grosso,Música clássica,1
+Mato Grosso,Pop,1
+Mato Grosso,Reggae,1
+Mato Grosso,Rock,1
+Mato Grosso,Sertanejo,1
+Mato Grosso do Sul,Blues,1
+Mato Grosso do Sul,Country,1
+Mato Grosso do Sul,Funk,1
+Mato Grosso do Sul,Gospel,1
+Mato Grosso do Sul,Hip Hop,1
+Mato Grosso do Sul,MPB,1
+Mato Grosso do Sul,Pagode,1
+Mato Grosso do Sul,Pop,1
+Mato Grosso do Sul,Rock,2
+Minas Gerais,Axé,1
+Minas Gerais,Country,1
+Minas Gerais,Eletrônica,1
+Minas Gerais,Forró,1
+Minas Gerais,Hip Hop,1
+Minas Gerais,MPB,1
+Minas Gerais,Música clássica,1
+Minas Gerais,Rock,1
+Minas Gerais,Samba,1
+Minas Gerais,Sertanejo,1
+Paraná,Axé,1
+Paraná,Blues,1
+Paraná,Country,1
+Paraná,Forró,1
+Paraná,MPB,2
+Paraná,Rap,1
+Paraná,Samba,1
+Paraíba,Gospel,1
+Paraíba,MPB,1
+Paraíba,Pagode,1
+Paraíba,Pop,2
+Paraíba,Sertanejo,2
+Pará,Funk,1
+Pará,MPB,1
+Pará,Pop,1
+Pará,Reggae,2
+Pará,Samba,1
+Pernambuco,Blues,1
+Pernambuco,Country,1
+Pernambuco,Eletrônica,1
+Pernambuco,Hip Hop,1
+Pernambuco,Reggae,1
+Pernambuco,Rock,1
+Pernambuco,Sertanejo,1
+Piauí,Forró,1
+Piauí,Gospel,1
+Piauí,Hip Hop,1
+Piauí,Jazz,1
+Piauí,Reggae,1
+Piauí,Samba,1
+Rio Grande do Norte,Blues,1
+Rio Grande do Norte,Hip Hop,1
+Rio Grande do Norte,Rap,1
+Rio Grande do Norte,Sertanejo,1
+Rio Grande do Sul,Forró,1
+Rio de Janeiro,Axé,1
+Rio de Janeiro,Blues,1
+Rio de Janeiro,Country,1
+Rio de Janeiro,Eletrônica,1
+Rio de Janeiro,Funk,1
+Rio de Janeiro,Gospel,1
+Rio de Janeiro,Pagode,1
+Rio de Janeiro,Rap,2
+Rondônia,Blues,2
+Rondônia,Eletrônica,3
+Rondônia,Gospel,1
+Rondônia,Hip Hop,2
+Rondônia,Jazz,1
+Rondônia,Reggae,2
+Rondônia,Samba,2
+Rondônia,Sertanejo,2
+Roraima,Gospel,1
+Roraima,MPB,1
+Roraima,Pagode,1
+Santa Catarina,Funk,1
+Santa Catarina,Gospel,1
+Santa Catarina,Jazz,1
+Santa Catarina,Pop,2
+Santa Catarina,Reggae,1
+Santa Catarina,Rock,1
+Santa Catarina,Sertanejo,1
+Sergipe,Eletrônica,2
+São Paulo,Axé,1
+São Paulo,Rap,1
+São Paulo,Rock,1
+Tocantins,Country,1
+Tocantins,Eletrônica,1
+Tocantins,Funk,1
+Tocantins,Gospel,1
+Tocantins,MPB,1
+Tocantins,Pop,1
+Tocantins,Rap,1
+Tocantins,Samba,1
