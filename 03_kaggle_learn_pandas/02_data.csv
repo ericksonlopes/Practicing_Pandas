@@ -1,6 +1,6 @@
 nome,idade,email,estado,genero_musical,linguagem
-Samuel Melo,27,goncalvesdanilo@gmail.com,Espírito Santo,Blues,Python
-Henrique da Mata,60,jesusisadora@uol.com.br,Rondônia,Jazz,Java
+Samuel Melo,,goncalvesdanilo@gmail.com,Espírito Santo,Blues,Python
+Henrique da Mata,,jesusisadora@uol.com.br,Rondônia,Jazz,Java
 Luigi Cunha,39,acarvalho@uol.com.br,Minas Gerais,Hip Hop,Python
 Dra. Fernanda Novaes,29,ribeiropietra@yahoo.com.br,Amazonas,Sertanejo,Java
 Joaquim Ferreira,60,emelo@gmail.com,Distrito Federal,Eletrônica,Java
