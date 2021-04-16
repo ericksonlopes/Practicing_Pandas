@@ -9,14 +9,14 @@ linguagens = ['Java', 'C', 'C++', 'Python', 'C#', 'JavaScript', " Visual Basic .
               'Objective-C', 'Assembly', 'Perl', 'Ruby', 'Delphi / Object Pascal', 'Go', 'Scratch', 'PL/SQL',
               'Visual Basic']
 
-with open('dados.csv', 'w+', encoding='utf-8') as arquivo:
+with open('dados.csv', 'w', encoding='utf-8') as arquivo:
     arquivo.write('name,data_nasc,email,pontos,uf,linguagem,genero_musical\n')
 
     for linha in range(300):
         nome = faker.name()
 
         email = nome.replace(' ', '').lower() + '@' + faker.email().split('@')[1]
-        if linha % 4 == 0:
+        if linha % 7 == 0:
             email = ''
 
         arquivo.write(
@@ -28,3 +28,4 @@ with open('dados.csv', 'w+', encoding='utf-8') as arquivo:
             f'{faker.random.choice(linguagens)},'
             f'{faker.random.choice(generos_muscais)}\n'
         )
+
