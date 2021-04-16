@@ -1,201 +1,301 @@
 name,data_nasc,email,pontos,uf,linguagem,genero_musical
-Fernando Correia,1960-03-16,fernandocorreia@bol.com.br,13,GO,Python,Country
-Fernanda Cardoso,2000-06-20,fernandacardoso@bol.com.br,25,ES,MATLAB,Eletrônica
-Maria Eduarda da Luz,1992-04-24,mariaeduardadaluz@aragao.com,16,GO,PL/SQL,Hip Hop
-Ana Júlia Rodrigues,2003-01-07,anajúliarodrigues@ig.com.br,51,AP,PHP,Rock
-Ana Carolina Porto,1994-08-30,anacarolinaporto@bol.com.br,3,RO,Delphi / Object Pascal,Blues
-Clarice Rodrigues,1985-02-13,claricerodrigues@yahoo.com.br,62,MG,C++,MPB
-Camila Rocha,1962-12-23,camilarocha@uol.com.br,24,SC,Ruby,Forró
-Nicolas Moraes,1961-02-15,nicolasmoraes@viana.com,7,RR,Java,Axé
-João Gabriel Pinto,1985-08-28,joãogabrielpinto@uol.com.br,15,MT,Ruby,Gospel
-Benício Gonçalves,1983-01-08,beníciogonçalves@ribeiro.com,77,SE,C#,Gospel
-Noah da Rocha,1964-10-05,noahdarocha@yahoo.com.br,5,RN,MATLAB,Hip Hop
-Sra. Esther Barros,1981-12-01,sra.estherbarros@ig.com.br,62,AM,C,Música clássica
-Ana Julia Novaes,1974-03-28,anajulianovaes@cardoso.com,10,PE,Go,Rock
-Vitor Gabriel Lima,1971-08-09,vitorgabriellima@hotmail.com,74,PB,R,Rock
-Sra. Bianca Mendes,1956-05-17,sra.biancamendes@aragao.br,30,AC,Swift,Forró
-Larissa da Costa,1982-11-12,larissadacosta@da.br,37,DF,Java,Rap
-Laura Vieira,1982-11-18,lauravieira@ig.com.br,28,ES,C#,MPB
-Carlos Eduardo Freitas,1965-10-10,carloseduardofreitas@gmail.com,98,SE,R,Reggae
-Melissa da Paz,1972-05-11,melissadapaz@yahoo.com.br,84,RJ,Visual Basic,Axé
-Dra. Juliana da Mata,1997-07-18,dra.julianadamata@santos.com,72,RO,Objective-C,Pagode
-Lavínia Rezende,1975-06-19,lavíniarezende@castro.com,44,RR,Ruby,Hip Hop
-Sra. Clarice Cavalcanti,1950-12-29,sra.claricecavalcanti@bol.com.br,48,RN,PL/SQL,Forró
-Esther Almeida,1983-06-23,estheralmeida@yahoo.com.br,21,AP,PHP,Forró
-Bruna Barbosa,1963-09-22,brunabarbosa@hotmail.com,91,RJ,Swift,Pop
-Diogo Pinto,1995-08-31,diogopinto@duarte.com,32,MG,Python,Música clássica
-Carlos Eduardo Ribeiro,1971-04-19,carloseduardoribeiro@jesus.net,45,DF,Java,MPB
-Sr. Luigi Cavalcanti,1972-10-20,sr.luigicavalcanti@oliveira.org,79,RR,Python,Country
-João Gabriel Costela,2000-06-22,joãogabrielcostela@gomes.br,70,AL,Visual Basic,Pop
-Leonardo Duarte,1952-07-27,leonardoduarte@ig.com.br,85,PI,Visual Basic,Rock
-Sra. Juliana Melo,1989-09-29,sra.julianamelo@bol.com.br,81,ES,Visual Basic,MPB
-Kaique Cavalcanti,1989-02-11,kaiquecavalcanti@moura.org,25,RR,Visual Basic,Jazz
-Milena Pinto,1973-09-18,milenapinto@ribeiro.com,45,CE,C,Axé
-Juan da Rosa,1971-08-14,juandarosa@oliveira.br,77,RJ,C,Funk
-Laura Ribeiro,1956-11-22,lauraribeiro@costa.net,87,AC,Objective-C,MPB
-João Lucas Campos,1973-07-28,joãolucascampos@das.com,38,SP, Visual Basic . NET,Rap
-Carlos Eduardo da Conceição,1969-05-01,carloseduardodaconceição@bol.com.br,68,GO,Visual Basic,Samba
-Marcela Rocha,2002-04-02,marcelarocha@barbosa.br,47,RS,PHP,Hip Hop
-Heloísa Moraes,1981-07-29,heloísamoraes@uol.com.br,23,SC,JavaScript,Eletrônica
-Sr. Enrico Monteiro,1960-01-20,sr.enricomonteiro@monteiro.com,19,AM,Scratch,MPB
-Eloah Campos,1952-07-14,eloahcampos@viana.com,11,AC,Python,Forró
-Gustavo da Paz,1999-07-06,gustavodapaz@fernandes.org,3,PB,PL/SQL,Samba
-Vitor Hugo da Paz,1956-12-06,vitorhugodapaz@uol.com.br,53,SP,R,Reggae
-Elisa Novaes,1978-12-31,elisanovaes@cunha.br,10,RO,Swift,Eletrônica
-Cecília Viana,1968-10-26,cecíliaviana@bol.com.br,48,TO,Java,Música clássica
-Maria Fernanda Rodrigues,2000-03-25,mariafernandarodrigues@melo.com,65,PA,Objective-C,Hip Hop
-Gustavo Duarte,1990-09-23,gustavoduarte@uol.com.br,64,AM,PL/SQL,Gospel
-Anthony Melo,1973-05-20,anthonymelo@fernandes.com,96,MT,Python,Rock
-Maria Clara Fernandes,1950-07-24,mariaclarafernandes@barbosa.com,13,MS,Ruby,Eletrônica
-Pedro Miguel Fogaça,1969-12-07,pedromiguelfogaça@ig.com.br,94,MA,PL/SQL,Forró
-João Vitor Lopes,1961-03-23,joãovitorlopes@rocha.br,56,MA,Python,Eletrônica
-Srta. Ana Sophia Ribeiro,1976-10-07,srta.anasophiaribeiro@jesus.com,49,SE,Swift,Blues
-Ana Sophia Nunes,1987-02-22,anasophianunes@lima.br,76,RN,Java,Sertanejo
-Ana Lívia Cavalcanti,1956-01-30,analíviacavalcanti@nascimento.br,78,BA,R,Blues
-Luiz Henrique da Rosa,1970-03-11,luizhenriquedarosa@gmail.com,7,PA,PL/SQL,Samba
-Sra. Sophie da Rocha,1967-04-24,sra.sophiedarocha@da.com,9,SE,Perl,Rap
-João Lucas Cunha,2000-05-27,joãolucascunha@yahoo.com.br,92,TO,R,Forró
-Benjamin Costela,1977-06-25,benjamincostela@porto.br,6,PB,Go,Eletrônica
-Caroline Silveira,1965-07-23,carolinesilveira@uol.com.br,56,AL,Perl,Jazz
-Dr. Raul Fogaça,1965-12-19,dr.raulfogaça@moraes.org,25,MS,Swift,Sertanejo
-Nicole Cavalcanti,1961-01-03,nicolecavalcanti@cunha.br,77,PR,PL/SQL,Samba
-Bruno Pereira,1989-05-10,brunopereira@hotmail.com,99,RR,Objective-C,MPB
-Daniel Cunha,1975-04-01,danielcunha@barbosa.org,39,MS, Visual Basic . NET,Axé
-João Miguel Cardoso,1976-09-23,joãomiguelcardoso@farias.br,48,RJ,PHP,Forró
-Sr. Theo Ramos,1988-10-10,sr.theoramos@martins.br,76,DF,Assembly,Blues
-Julia Costa,1951-09-22,juliacosta@uol.com.br,75,MG,Ruby,Reggae
-Bárbara Duarte,1983-01-17,bárbaraduarte@araujo.com,76,AL,Visual Basic,Sertanejo
-Heloísa Pereira,1962-09-19,heloísapereira@yahoo.com.br,45,SE,C#,Pop
-Sr. Joaquim Nunes,1982-05-17,sr.joaquimnunes@souza.br,77,PI,Python,Eletrônica
-Evelyn Azevedo,1966-05-06,evelynazevedo@lima.br,93,MT,MATLAB,Música clássica
-Dra. Caroline Vieira,1971-05-13,dra.carolinevieira@yahoo.com.br,10,RJ,Delphi / Object Pascal,Gospel
-Emanuelly da Cunha,1970-02-08,emanuellydacunha@uol.com.br,64,GO,Swift,Sertanejo
-Emanuelly Lima,1998-06-23,emanuellylima@vieira.com,24,PE,MATLAB,Pop
-João Felipe Freitas,1964-02-03,joãofelipefreitas@ig.com.br,99,PE,C#,Country
-Natália Cavalcanti,1980-08-18,natáliacavalcanti@monteiro.com,42,AL,Scratch,Música clássica
-Igor Mendes,2002-10-22,igormendes@hotmail.com,6,RS,C++,Rock
-Dra. Marcela da Cruz,1989-03-22,dra.marceladacruz@pires.com,8,PB,Python,Pop
-Mariana Rezende,1965-07-08,marianarezende@freitas.com,37,BA,R,Pop
-Dr. João Pedro Rocha,1954-12-19,dr.joãopedrorocha@hotmail.com,5,SC,Scratch,MPB
-Noah Oliveira,1977-04-06,noaholiveira@sales.com,97,BA,R,Gospel
-Isabelly Caldeira,1979-07-27,isabellycaldeira@da.br,41,PE,Visual Basic,Blues
-Ana Carolina Mendes,1958-03-18,anacarolinamendes@yahoo.com.br,20,RN,Assembly,Sertanejo
-Sra. Ana Beatriz Sales,1969-02-05,sra.anabeatrizsales@nogueira.com,45,RS,C,Gospel
-Dr. João Guilherme Castro,1999-07-16,dr.joãoguilhermecastro@da.net,7,RJ,C#,Country
-Luiza Moreira,1991-02-16,luizamoreira@uol.com.br,24,MS,Java,Música clássica
-João Gabriel Ribeiro,1967-02-02,joãogabrielribeiro@nascimento.net,54,PB,PL/SQL,MPB
-Rebeca Ribeiro,1993-02-08,rebecaribeiro@ig.com.br,58,RO,Objective-C,Forró
-Maria Julia Freitas,1993-03-08,mariajuliafreitas@hotmail.com,3,AM,Swift,Música clássica
-Sr. Henrique Almeida,1952-02-17,sr.henriquealmeida@ig.com.br,38,GO,Swift,Música clássica
-Bryan Costa,2000-06-05,bryancosta@barros.com,12,MS,Scratch,Pop
-Mirella da Rosa,1982-10-26,mirelladarosa@fernandes.com,27,AP,C#,Reggae
-Alana Teixeira,1980-06-18,alanateixeira@lima.com,80,RO,C#,Country
-Srta. Ana Carolina Fogaça,1996-03-18,srta.anacarolinafogaça@uol.com.br,29,DF,Visual Basic,Sertanejo
-Ryan Carvalho,1963-01-04,ryancarvalho@hotmail.com,5,MA,Swift,Sertanejo
-Isaac Araújo,1990-02-25,isaacaraújo@hotmail.com,84,SP,Ruby,MPB
-Dra. Elisa Gonçalves,1994-02-18,dra.elisagonçalves@da.com,99,PR,Objective-C,Gospel
-Luiz Otávio Ferreira,1994-07-19,luizotávioferreira@gmail.com,76,TO,Ruby,Rock
-Lucas Oliveira,1978-04-09,lucasoliveira@bol.com.br,21,PI,Objective-C,Eletrônica
-Sr. Davi Lucas da Luz,1987-12-08,sr.davilucasdaluz@yahoo.com.br,35,GO,JavaScript,Rock
-Enzo Viana,1962-01-13,enzoviana@azevedo.br,51,AM,Go,Hip Hop
-Vitor Correia,1969-05-12,vitorcorreia@uol.com.br,0,TO,Java,Funk
-Giovanna Lopes,1976-08-14,giovannalopes@barros.com,47,AP,MATLAB,Música clássica
-Alexia Caldeira,1953-12-14,alexiacaldeira@ig.com.br,21,PI,Visual Basic,Jazz
-Ana Júlia Caldeira,2000-07-03,anajúliacaldeira@yahoo.com.br,45,MA,Ruby,Forró
-Calebe Cavalcanti,2002-06-11,calebecavalcanti@ramos.com,54,MA,JavaScript,Sertanejo
-Ana Carolina da Paz,2000-10-03,anacarolinadapaz@rocha.net,15,PB,Python,Pop
-Bárbara Azevedo,1981-11-11,bárbaraazevedo@hotmail.com,69,BA,R,MPB
-Carlos Eduardo Silveira,1987-06-10,carloseduardosilveira@ig.com.br,7,SC,PHP,Samba
-Alana Pires,1995-10-20,alanapires@hotmail.com,85,ES, Visual Basic . NET,Samba
-Leandro Ribeiro,1956-11-22,leandroribeiro@duarte.net,55,RS,Assembly,Rock
-Emanuella Farias,1951-11-20,emanuellafarias@bol.com.br,73,MG,Visual Basic,Axé
-Levi Nascimento,1967-06-22,levinascimento@caldeira.com,33,PA,Swift,Country
-Noah Porto,1961-07-05,noahporto@bol.com.br,71,PR,Swift,Country
-Emilly Carvalho,1960-01-16,emillycarvalho@da.br,0,ES,Scratch,Hip Hop
-Clara Moreira,1966-12-20,claramoreira@pereira.br,71,ES,Scratch,Samba
-Fernanda Novaes,1987-11-06,fernandanovaes@bol.com.br,11,BA,C++,Axé
-Dra. Helena Jesus,2001-07-14,dra.helenajesus@da.com,37,PB,Assembly,Hip Hop
-Erick Gonçalves,1963-09-25,erickgonçalves@souza.br,58,PR,PHP,Pagode
-Sr. Thales Lima,2001-02-22,sr.thaleslima@da.br,82,SP,Visual Basic,Gospel
-Luiz Gustavo da Mota,1991-09-27,luizgustavodamota@ig.com.br,14,PB,PHP,Jazz
-Dra. Emanuelly Lima,1981-08-13,dra.emanuellylima@bol.com.br,33,RN,Visual Basic,Axé
-Ana Carolina Santos,1959-07-29,anacarolinasantos@oliveira.com,2,TO,Delphi / Object Pascal,Eletrônica
-Heloísa Fernandes,1992-07-07,heloísafernandes@costela.com,72,PA,Swift,Forró
-Ana Laura Cavalcanti,1974-03-14,analauracavalcanti@da.com,45,AC, Visual Basic . NET,Hip Hop
-Joana Rodrigues,1997-06-09,joanarodrigues@yahoo.com.br,23,PE,Swift,Gospel
-Renan Peixoto,1970-10-23,renanpeixoto@ig.com.br,68,SC,Java,Música clássica
-Maria Cecília da Cunha,2002-01-04,mariacecíliadacunha@bol.com.br,66,AC,Ruby,Blues
-Maria Vitória Duarte,1962-04-01,mariavitóriaduarte@moraes.br,76,SE,Objective-C,Jazz
-Miguel da Luz,1965-12-25,migueldaluz@campos.org,71,RS,R,Pagode
-Gabriel Freitas,1989-03-02,gabrielfreitas@yahoo.com.br,57,PI,C++,Pagode
-Sra. Stephany Aragão,1995-12-27,sra.stephanyaragão@hotmail.com,33,RJ,R,Country
-Natália Melo,1966-05-14,natáliamelo@uol.com.br,37,MA,Delphi / Object Pascal,Pop
-Dr. João Lucas Cunha,1978-06-05,dr.joãolucascunha@uol.com.br,37,RJ,Objective-C,Rap
-Camila Ferreira,1983-11-06,camilaferreira@jesus.br,72,GO,C,Jazz
-Leandro da Cruz,1970-09-21,leandrodacruz@uol.com.br,16,GO,Scratch,Reggae
-Ana Luiza Farias,1970-11-21,analuizafarias@bol.com.br,24,RS,Objective-C,Country
-Henrique Barros,1988-02-10,henriquebarros@gmail.com,89,PA,Assembly,Rap
-Sra. Maria Eduarda Campos,1973-06-08,sra.mariaeduardacampos@yahoo.com.br,43,PI,Scratch,Samba
-Bruno Cavalcanti,1965-01-24,brunocavalcanti@ig.com.br,92,GO,Java,Música clássica
-Gustavo Freitas,1974-09-15,gustavofreitas@costela.br,10,PR,Assembly,Hip Hop
-Sra. Valentina Carvalho,1959-07-20,sra.valentinacarvalho@da.com,74,AP,Scratch,Jazz
-Lorena Fernandes,1979-07-21,lorenafernandes@ramos.br,59,RR,Assembly,Pagode
-Bárbara Nogueira,1952-03-10,bárbaranogueira@hotmail.com,78,PE,Ruby,Rap
-Paulo Gonçalves,1973-11-03,paulogonçalves@pereira.net,72,PE,Delphi / Object Pascal,Axé
-Anthony Peixoto,1977-09-26,anthonypeixoto@sales.org,1,SP,C#,Jazz
-Fernando Cavalcanti,1986-11-11,fernandocavalcanti@da.com,4,RO,Delphi / Object Pascal,Blues
-Isabella da Conceição,1967-08-22,isabelladaconceição@barros.org,33,PE,Perl,Sertanejo
-Ian Gonçalves,1962-07-05,iangonçalves@gmail.com,44,CE,Go,Country
-Emilly Moraes,1989-12-02,emillymoraes@nascimento.com,98,MA,PHP,Forró
-Vitória da Rosa,1966-01-14,vitóriadarosa@ig.com.br,63,SP,JavaScript,Forró
-Emanuella Ramos,1977-03-23,emanuellaramos@aragao.com,99,GO,PL/SQL,Música clássica
-Maria Cecília Caldeira,1982-05-20,mariacecíliacaldeira@nascimento.com,44,AC,C,Sertanejo
-Dra. Ana Carolina Lima,1979-01-03,dra.anacarolinalima@lima.net,69,MT,C,Axé
-Davi Luiz Carvalho,1977-02-19,daviluizcarvalho@hotmail.com,70,AL,Perl,Eletrônica
-Davi Lucca Farias,1961-10-18,daviluccafarias@dias.net,85,SC,Swift,Forró
-Isaac Castro,1997-02-20,isaaccastro@bol.com.br,60,AM,Java,Axé
-Nina Vieira,1956-12-21,ninavieira@farias.br,24,MT,C++,Música clássica
-Clara Farias,1970-11-20,clarafarias@yahoo.com.br,10,SP,Ruby,Funk
-Sr. Vitor Novaes,1951-06-27,sr.vitornovaes@cunha.br,56,PA,PHP,Funk
-Isabel Cardoso,1968-09-09,isabelcardoso@pinto.net,32,SC,PHP,Forró
-Dra. Luna Fogaça,2003-02-12,dra.lunafogaça@uol.com.br,37,ES,MATLAB,Country
-Ryan da Mata,1952-11-18,ryandamata@freitas.com,58,PA,Python,Samba
-Bruna Jesus,1959-02-16,brunajesus@da.net,77,PE,C,Jazz
-Olivia Cavalcanti,1968-07-17,oliviacavalcanti@ig.com.br,16,SP,JavaScript,Gospel
-Clara Cavalcanti,1987-08-21,claracavalcanti@ig.com.br,17,RR,Ruby,Pop
-Stella das Neves,1993-05-12,stelladasneves@bol.com.br,71,RJ, Visual Basic . NET,Música clássica
-Maria Eduarda Alves,1969-04-03,mariaeduardaalves@lima.com,46,MS,JavaScript,Música clássica
-João Pedro Moraes,1973-04-13,joãopedromoraes@da.com,48,PR,C,Reggae
-Stephany Pires,1965-11-18,stephanypires@barros.com,31,RJ,Perl,Eletrônica
-Rebeca da Costa,1983-01-12,rebecadacosta@moraes.com,22,DF,PL/SQL,Axé
-Luiz Miguel da Luz,1968-10-28,luizmigueldaluz@almeida.com,84,MS,PL/SQL,Reggae
-Miguel Nunes,1983-02-11,miguelnunes@ig.com.br,52,PI,MATLAB,Pagode
-Maitê Freitas,1986-11-04,maitêfreitas@hotmail.com,43,PR,Scratch,Pagode
-Isadora Carvalho,1992-07-22,isadoracarvalho@hotmail.com,11,AM,Visual Basic,Rock
-Murilo Peixoto,1970-03-03,murilopeixoto@yahoo.com.br,49,TO,Delphi / Object Pascal,Música clássica
-Srta. Gabriela Ferreira,1964-07-22,srta.gabrielaferreira@yahoo.com.br,31,SC,Swift,Jazz
-Pietra das Neves,1986-08-17,pietradasneves@hotmail.com,81,PB,Python,Funk
-Olivia Monteiro,1959-05-26,oliviamonteiro@fogaca.br,55,BA,Ruby,Funk
-Sr. Vinicius Nogueira,1986-08-12,sr.viniciusnogueira@silveira.com,69,AP,Go,Country
-Srta. Lívia Costela,1952-12-27,srta.líviacostela@ribeiro.org,71,SC,Go,Gospel
-Eloah Costa,1995-09-20,eloahcosta@sales.br,28,DF,MATLAB,Sertanejo
-Sra. Pietra Correia,1992-09-02,sra.pietracorreia@ig.com.br,6,RJ,R,Gospel
-Benjamin Jesus,1999-12-07,benjaminjesus@hotmail.com,64,BA,Delphi / Object Pascal,Pop
-Ana Laura Viana,2001-11-14,analauraviana@gmail.com,53,TO,Assembly,Sertanejo
-Dr. Leonardo Peixoto,1988-03-09,dr.leonardopeixoto@yahoo.com.br,30,DF,PL/SQL,Sertanejo
-Pedro Miguel Ferreira,1964-11-26,pedromiguelferreira@pires.org,96,RS,C,Pop
-Isabel Novaes,1964-09-06,isabelnovaes@hotmail.com,8,AP,PL/SQL,Hip Hop
-Isabel Pires,1966-02-17,isabelpires@gmail.com,53,RJ,Go,Samba
-Enzo Gabriel Freitas,1994-02-27,enzogabrielfreitas@uol.com.br,28,PI,Go,Música clássica
-Larissa Melo,1963-03-29,larissamelo@bol.com.br,53,BA,Perl,Reggae
-Daniela Vieira,1968-03-14,danielavieira@moreira.com,99,PE,Objective-C,Rap
-Murilo das Neves,1969-02-13,murilodasneves@nunes.br,33,MA,Visual Basic,Funk
-Fernanda Almeida,1977-01-11,fernandaalmeida@uol.com.br,0,BA,PHP,Pop
-Ana Beatriz Costela,1995-02-14,anabeatrizcostela@ig.com.br,1,SE,C#,Gospel
-Theo Sales,1965-01-01,theosales@jesus.com,38,RN,Go,MPB
-Lívia Carvalho,1960-11-22,líviacarvalho@almeida.net,24,RN,Visual Basic,Eletrônica
-Davi Luiz da Paz,1965-06-09,daviluizdapaz@ig.com.br,92,AP,Delphi / Object Pascal,Axé
-Vicente Costela,1954-09-12,vicentecostela@vieira.br,12,PI,JavaScript,Pagode
-Cauê Campos,1972-07-15,cauêcampos@ig.com.br,63,SE,C++,Sertanejo
-Luiz Otávio Mendes,1990-02-10,luizotáviomendes@costela.com,95,RR,Objective-C,Axé
-Sr. Vitor Hugo Vieira,1973-08-21,sr.vitorhugovieira@yahoo.com.br,24,MS,Python,Blues
+Camila Monteiro,1989-12-04,,77,CE,PL/SQL,Samba
+Helena Porto,1987-02-12,helenaporto@caldeira.com,60,PB, Visual Basic . NET,Pagode
+Vitor Gabriel Fogaça,1950-10-09,vitorgabrielfogaça@carvalho.br,88,SP,Go,Forró
+Murilo Viana,1955-04-18,muriloviana@mendes.org,18,AC,C#,Pagode
+Felipe Mendes,1973-07-20,,5,DF,C++,Country
+Samuel Ferreira,1976-08-19,samuelferreira@gmail.com,42,SC,Scratch,Sertanejo
+Diego da Costa,2002-11-21,diegodacosta@santos.br,82,RJ,Swift,Sertanejo
+Davi Ramos,1952-07-25,daviramos@almeida.br,55,RN,Assembly,Reggae
+Camila Jesus,2001-01-09,,83,DF, Visual Basic . NET,Rock
+Eduardo Nascimento,1990-04-20,eduardonascimento@hotmail.com,70,GO,C++,Rap
+Marcela da Mota,1953-02-09,marceladamota@hotmail.com,4,CE,R,Pagode
+Raquel Viana,1953-08-19,raquelviana@ig.com.br,7,PA,Swift,Gospel
+Renan Melo,1987-07-16,,84,PA,Go,Rock
+Isabella Duarte,1967-10-27,isabelladuarte@souza.com,56,DF,Ruby,Rock
+Fernando Cardoso,1965-03-31,fernandocardoso@ig.com.br,23,MA,C++,Blues
+Marcos Vinicius Lopes,1951-08-11,marcosviniciuslopes@bol.com.br,82,RS,Scratch,Hip Hop
+Sra. Ana Júlia Gomes,1979-04-14,,21,DF,C++,Rap
+Srta. Isadora da Conceição,1973-02-14,srta.isadoradaconceição@da.br,26,DF,Perl,Sertanejo
+Thales Cavalcanti,1989-09-01,thalescavalcanti@bol.com.br,60,RJ,Delphi / Object Pascal,Axé
+Cauã da Paz,1966-12-17,cauãdapaz@uol.com.br,91,SC,Delphi / Object Pascal,Pagode
+Maysa da Paz,1964-10-08,,76,DF,Perl,Sertanejo
+Leandro da Rosa,1960-12-04,leandrodarosa@hotmail.com,97,MG,PL/SQL,MPB
+Maria Vitória Pereira,1972-07-23,mariavitóriapereira@da.net,84,MS,Assembly,Blues
+Emanuel Barbosa,1966-10-15,emanuelbarbosa@rodrigues.com,70,PI, Visual Basic . NET,Pagode
+Raul Cunha,1992-09-09,,63,AM,R,Jazz
+Lorenzo da Rosa,1952-12-28,lorenzodarosa@bol.com.br,14,RN,Go,Música clássica
+Felipe Cunha,1952-12-10,felipecunha@uol.com.br,18,PI,JavaScript,Reggae
+Dr. Paulo Rezende,1965-06-08,dr.paulorezende@hotmail.com,65,PA,C,MPB
+Luiz Miguel Freitas,1994-09-08,,49,GO,JavaScript,Jazz
+Maria Vitória da Rosa,1984-08-18,mariavitóriadarosa@bol.com.br,67,PE,Objective-C,Rap
+Murilo Azevedo,1989-09-14,muriloazevedo@gmail.com,98,RJ,Python,Country
+Ana Beatriz Cardoso,1991-04-19,anabeatrizcardoso@ramos.net,48,AL,PHP,Country
+Gustavo Fernandes,1960-02-14,,13,ES,Assembly,Country
+Dra. Camila Nascimento,1978-02-11,dra.camilanascimento@lima.com,77,RN, Visual Basic . NET,Pop
+Yuri Costela,1982-05-11,yuricostela@uol.com.br,42,PB,PHP,Jazz
+Maysa Costa,1967-04-03,maysacosta@gmail.com,22,MS,Java,Blues
+Raul Gonçalves,1965-07-08,,12,MA,MATLAB,Forró
+Thomas Azevedo,1971-07-25,thomasazevedo@gmail.com,17,RN,C,Rap
+Joana Martins,1969-11-04,joanamartins@ig.com.br,13,AM,JavaScript,Forró
+Alexandre Viana,1966-10-21,alexandreviana@hotmail.com,25,SC,R,Rap
+Giovanna Lima,1998-11-06,,92,AL,Scratch,Rap
+Caroline Monteiro,1993-08-27,carolinemonteiro@bol.com.br,73,RO,R,Axé
+Ana Vitória Gonçalves,1994-12-06,anavitóriagonçalves@barbosa.com,81,CE,Perl,Pop
+Alice da Conceição,1992-06-19,alicedaconceição@hotmail.com,93,AM,C,Música clássica
+João Gabriel Moraes,1987-12-27,,56,MG,Assembly,Sertanejo
+Rafaela Azevedo,1966-04-29,rafaelaazevedo@uol.com.br,12,PI,Python,Country
+Davi Lucca da Rosa,1971-02-13,daviluccadarosa@ig.com.br,52,PA,PHP,Pagode
+Sr. Erick Costa,1952-07-10,sr.erickcosta@gmail.com,86,GO,C++,MPB
+Sr. Pedro Henrique Duarte,1997-04-18,,18,TO,Perl,Funk
+Dr. Pietro da Mata,1980-11-25,dr.pietrodamata@rocha.com,1,RJ,PL/SQL,Rap
+João Gabriel da Mata,1999-03-14,joãogabrieldamata@nogueira.br,82,TO,MATLAB,Pagode
+Ana Carolina Barros,1961-04-28,anacarolinabarros@yahoo.com.br,49,SE,Objective-C,MPB
+Pedro Henrique Lopes,1961-03-18,,34,RN,PL/SQL,MPB
+Srta. Ana Luiza Ramos,1965-04-05,srta.analuizaramos@hotmail.com,36,CE,C++,Eletrônica
+Danilo Souza,1956-10-30,danilosouza@gmail.com,17,BA,Objective-C,Hip Hop
+Vitor Gabriel Dias,1995-06-12,vitorgabrieldias@farias.com,89,PR, Visual Basic . NET,Rap
+Lucas Gabriel das Neves,1956-06-01,,47,CE,Swift,Jazz
+Sr. Luiz Otávio Moreira,1959-02-26,sr.luizotáviomoreira@oliveira.com,21,PB,Ruby,Sertanejo
+Yasmin Viana,1974-10-17,yasminviana@uol.com.br,79,PA, Visual Basic . NET,Hip Hop
+Natália das Neves,1990-09-23,natáliadasneves@bol.com.br,73,MT,Visual Basic,Pop
+Emanuella Rezende,1967-12-13,,23,SE,Perl,Reggae
+Lívia Ribeiro,1982-03-31,líviaribeiro@teixeira.br,52,ES,C#,Rap
+Rafaela Costela,1988-07-12,rafaelacostela@yahoo.com.br,62,ES,MATLAB,Blues
+Theo Barbosa,1965-07-19,theobarbosa@hotmail.com,73,TO,MATLAB,Eletrônica
+Dra. Ana Lívia Moraes,1996-11-18,,28,MT,MATLAB,MPB
+Vitor Lima,1953-09-18,vitorlima@correia.br,42,CE,Python,Sertanejo
+Pedro Lucas Vieira,1972-08-22,pedrolucasvieira@lopes.com,5,PR,Java,Gospel
+Giovanna Souza,2000-01-22,giovannasouza@lopes.net,10,AP,Objective-C,Eletrônica
+Letícia da Mota,1987-08-07,,28,RS,Go,Samba
+Gabriela Ferreira,1955-03-08,gabrielaferreira@yahoo.com.br,29,ES,C#,Pagode
+Yasmin da Mata,1993-09-25,yasmindamata@rocha.br,65,SP,MATLAB,Funk
+Sr. Lorenzo Rodrigues,1961-01-16,sr.lorenzorodrigues@uol.com.br,85,GO,Java,Rock
+Sr. Carlos Eduardo da Luz,1968-12-13,,6,RN,Swift,Rock
+Leonardo Cunha,1950-12-28,leonardocunha@bol.com.br,66,CE,R,Axé
+Augusto Nascimento,1973-03-16,augustonascimento@yahoo.com.br,93,PB,MATLAB,Jazz
+Francisco Rezende,1974-03-18,franciscorezende@martins.org,73,MS, Visual Basic . NET,Blues
+Vitória Cardoso,1976-01-29,,58,PA,Python,Rock
+Gabrielly Rezende,1982-02-08,gabriellyrezende@gmail.com,70,ES,JavaScript,Jazz
+Diego Cunha,1996-05-02,diegocunha@gmail.com,14,MS,Visual Basic,Samba
+Dra. Maysa Sales,1970-09-12,dra.maysasales@da.br,61,ES,Scratch,MPB
+João Guilherme Gomes,2000-10-28,,90,DF,MATLAB,Hip Hop
+Daniela da Conceição,1987-02-17,danieladaconceição@monteiro.com,77,RS,C,Eletrônica
+Srta. Maria Cecília Jesus,1972-04-16,srta.mariacecíliajesus@dias.net,100,SP,Go,Blues
+Maria Vitória Peixoto,1992-12-23,mariavitóriapeixoto@cardoso.br,95,GO,Swift,Sertanejo
+Beatriz Santos,2002-05-08,,23,GO,C++,Axé
+Srta. Alice Cunha,1970-11-06,srta.alicecunha@freitas.br,42,RR,PL/SQL,Rap
+Stephany Fogaça,1971-04-20,stephanyfogaça@viana.net,34,AP,Ruby,Country
+Juan Barbosa,1967-04-08,juanbarbosa@yahoo.com.br,92,PE,C#,Eletrônica
+Eduarda Araújo,1981-10-02,,8,PB,R,Rap
+Dr. Marcos Vinicius Castro,1953-10-02,dr.marcosviniciuscastro@costela.br,94,RR,R,Eletrônica
+Cauã da Cunha,1966-08-08,cauãdacunha@caldeira.br,79,AP,PHP,Jazz
+Eduarda Pinto,1999-11-18,eduardapinto@gmail.com,2,DF,R,Pop
+Maria Clara Cardoso,1989-01-26,,33,RS,Java,Sertanejo
+Ryan Monteiro,1956-10-17,ryanmonteiro@ig.com.br,87,AM,Swift,Pagode
+Danilo Vieira,1984-05-27,danilovieira@monteiro.org,79,RS,Delphi / Object Pascal,Rap
+Ana Clara Barros,1954-12-05,anaclarabarros@da.br,70,MT,Objective-C,Blues
+Pedro Lucas Gonçalves,1992-08-29,,87,GO,Ruby,Hip Hop
+Isis da Luz,1952-10-02,isisdaluz@gmail.com,6,AC,Visual Basic,Pagode
+Ana Clara Azevedo,1979-08-31,anaclaraazevedo@ig.com.br,39,DF,C++,Hip Hop
+Leandro Cardoso,1992-11-25,leandrocardoso@yahoo.com.br,31,GO,C++,Eletrônica
+Murilo da Rocha,1995-06-07,,60,AM,Objective-C,Rap
+Luana Fogaça,1975-02-14,luanafogaça@carvalho.br,71,BA,MATLAB,Rock
+Olivia Ramos,1968-09-27,oliviaramos@duarte.org,47,AP,Assembly,Hip Hop
+Yuri Oliveira,1996-05-30,yurioliveira@rezende.br,37,ES,PL/SQL,Samba
+Enrico Araújo,2000-08-13,,48,AL,PHP,Gospel
+Ana Lívia Nascimento,1978-01-03,analívianascimento@hotmail.com,27,SP,C++,Gospel
+Heloísa Azevedo,1977-02-13,heloísaazevedo@hotmail.com,43,SE,C,Pagode
+Augusto Pires,1969-03-08,augustopires@castro.br,74,RS,Assembly,Reggae
+Vicente Cardoso,1956-07-29,,66,SE,Scratch,Pagode
+Francisco Farias,1978-01-22,franciscofarias@campos.net,91,PR,C#,Forró
+Kamilly da Mata,2000-10-16,kamillydamata@bol.com.br,62,RN,Java,Pop
+Davi Duarte,1950-09-14,daviduarte@almeida.br,28,RR,PHP,Country
+Sr. Kevin Freitas,1951-03-13,,13,RS,Java,Forró
+Sr. Thiago Vieira,1964-11-22,sr.thiagovieira@moura.net,62,RR,JavaScript,Hip Hop
+Dr. Noah da Costa,1995-03-17,dr.noahdacosta@campos.net,50,MA,Python,Country
+Stella Duarte,1957-02-14,stelladuarte@moura.com,46,AL,C++,Funk
+Bárbara Cunha,1962-11-20,,8,AL,C,Eletrônica
+Erick Santos,1995-04-06,ericksantos@novaes.net,54,PA,Visual Basic,Rap
+Lucas Freitas,1979-07-09,lucasfreitas@da.br,28,PE,Python,Eletrônica
+Dr. Kevin Barbosa,1977-03-16,dr.kevinbarbosa@almeida.com,69,PI,Perl,Samba
+Bryan Moreira,1954-02-18,,89,AM,C,Sertanejo
+Dr. Anthony Novaes,1979-09-29,dr.anthonynovaes@uol.com.br,23,GO,Go,Pop
+Miguel Rocha,1969-02-08,miguelrocha@yahoo.com.br,37,PI,PHP,Blues
+Maria Clara Ferreira,1963-03-02,mariaclaraferreira@bol.com.br,61,RJ,Go,Blues
+Bruno das Neves,1992-02-14,,47,RS,PL/SQL,Música clássica
+Eduarda Nascimento,1953-08-18,eduardanascimento@uol.com.br,10,SP,Ruby,Axé
+Maria Luiza Moura,1982-04-26,marialuizamoura@hotmail.com,30,RN,Ruby,Sertanejo
+Maitê Cardoso,1992-06-15,maitêcardoso@uol.com.br,30,PR,PHP,Pop
+Carolina Freitas,1961-08-29,,29,SP,PHP,Axé
+Bryan Cardoso,1976-03-19,bryancardoso@vieira.net,71,SC,Scratch,Pagode
+Joaquim Rezende,1990-03-01,joaquimrezende@bol.com.br,3,TO,Swift,Gospel
+Sr. Yago Oliveira,1969-11-08,sr.yagooliveira@peixoto.org,28,AC,Visual Basic,Axé
+Dra. Mirella Porto,1961-03-25,,99,SE,C,Rap
+Diogo Silva,1979-04-19,diogosilva@oliveira.net,15,MT, Visual Basic . NET,Samba
+Dr. Enrico Alves,1957-06-18,dr.enricoalves@da.br,80,RJ,JavaScript,Pagode
+Cauã Cunha,1954-10-06,cauãcunha@farias.com,14,MS,C++,Música clássica
+Augusto da Paz,1982-10-14,,2,AP,Visual Basic,Pop
+Srta. Sophia Nascimento,1994-02-16,srta.sophianascimento@ig.com.br,97,SP,Delphi / Object Pascal,Pop
+Luiz Felipe Almeida,1988-08-10,luizfelipealmeida@yahoo.com.br,38,SC,PL/SQL,Forró
+Bianca Cavalcanti,1997-12-02,biancacavalcanti@duarte.com,8,AM,C++,Pop
+Gabrielly Santos,1992-11-05,,55,MT,C#,Hip Hop
+Dra. Helena Freitas,1973-02-13,dra.helenafreitas@yahoo.com.br,98,RS,PHP,Samba
+Maria Vitória Vieira,1988-01-30,mariavitóriavieira@da.com,3,MA, Visual Basic . NET,Jazz
+Evelyn Aragão,1984-06-06,evelynaragão@fogaca.br,91,BA, Visual Basic . NET,Rap
+Luigi Fogaça,1970-03-11,,53,AM,Ruby,Hip Hop
+Heloísa Mendes,1979-07-28,heloísamendes@uol.com.br,68,RS,Go,Blues
+Daniel da Cunha,1993-09-27,danieldacunha@nogueira.com,5,MS,Python,Rock
+Maria Pires,1970-12-19,mariapires@moura.br,27,BA,MATLAB,Música clássica
+Lucas Peixoto,1964-02-23,,94,DF,C++,MPB
+Mariana Rodrigues,1968-03-04,marianarodrigues@pires.net,4,PA,PL/SQL,Jazz
+Vitória Pereira,1965-12-16,vitóriapereira@costela.net,82,RR,Swift,Sertanejo
+Stella Monteiro,1971-02-20,stellamonteiro@yahoo.com.br,98,RS,Perl,Sertanejo
+Heitor Caldeira,1994-11-07,,60,MT,Ruby,Reggae
+Luiz Felipe da Paz,1986-11-03,luizfelipedapaz@farias.com,81,PI,JavaScript,Hip Hop
+Sophie da Cunha,1958-10-09,sophiedacunha@gomes.br,66,AC,R,Pagode
+Ana Júlia Oliveira,1997-05-01,anajúliaoliveira@silveira.com,13,SP,JavaScript,Música clássica
+Felipe Freitas,1979-05-01,,31,BA,C#,Funk
+Noah Gomes,1982-08-11,noahgomes@yahoo.com.br,96,TO,JavaScript,Country
+Clara Costa,1975-01-31,claracosta@aragao.com,53,ES,Swift,Pagode
+Cecília Mendes,1985-05-05,cecíliamendes@das.com,79,AM,Delphi / Object Pascal,Rock
+Anthony da Cunha,1981-11-19,,74,MS,Perl,Jazz
+Bernardo Gomes,1950-12-20,bernardogomes@freitas.net,28,RN,Java,Música clássica
+Emanuella Aragão,1962-05-26,emanuellaaragão@cardoso.br,15,SC,C++,Funk
+Juliana Pires,1974-10-27,julianapires@ig.com.br,15,GO,C#,MPB
+Luiz Miguel Sales,1957-08-30,,56,MA,Assembly,Forró
+Sra. Bruna Cardoso,1968-07-04,sra.brunacardoso@ramos.net,62,PI,Ruby,Funk
+Rebeca Moreira,1977-02-28,rebecamoreira@monteiro.br,64,RS,Java,Gospel
+Lorenzo Vieira,1953-11-09,lorenzovieira@pereira.br,39,AM,JavaScript,MPB
+Lucas Aragão,1959-02-26,,97,SE, Visual Basic . NET,Rap
+Agatha Rocha,1995-05-11,agatharocha@cardoso.com,100,PE,Delphi / Object Pascal,Música clássica
+Carolina Jesus,1971-02-01,carolinajesus@uol.com.br,59,PI,PHP,Rock
+Isaac Mendes,1954-06-16,isaacmendes@yahoo.com.br,91,MS,Objective-C,Country
+Sr. Ryan Ramos,1965-03-21,,94,AC,Assembly,Hip Hop
+Rebeca Silva,1986-01-21,rebecasilva@ribeiro.com,85,RS,Perl,Música clássica
+Sr. Eduardo Almeida,1981-02-14,sr.eduardoalmeida@bol.com.br,34,CE, Visual Basic . NET,Reggae
+Diogo Lopes,1992-11-25,diogolopes@ig.com.br,34,RR,C++,MPB
+João Gabriel Freitas,1982-08-28,,16,PA,Delphi / Object Pascal,Pop
+Evelyn Teixeira,1990-12-25,evelynteixeira@silva.org,42,MT,Python,Axé
+Benjamin Ferreira,1976-01-05,benjaminferreira@caldeira.br,43,MA,Swift,Rap
+Sra. Eduarda da Paz,1988-12-09,sra.eduardadapaz@freitas.net,74,RS,Go,Gospel
+João Gabriel Souza,1986-07-19,,53,BA,PHP,Samba
+Laura Cunha,1950-05-15,lauracunha@nunes.com,81,MG,PHP,Sertanejo
+Giovanna Moreira,1963-06-02,giovannamoreira@cunha.br,65,PA,MATLAB,Pagode
+Lorenzo da Mota,1979-06-10,lorenzodamota@ig.com.br,82,RJ,Go,Sertanejo
+Pedro Dias,1994-07-20,,58,RR,C#,Reggae
+Erick Duarte,1992-09-04,erickduarte@yahoo.com.br,51,MA, Visual Basic . NET,Jazz
+Nina Lopes,1984-08-09,ninalopes@hotmail.com,12,PI, Visual Basic . NET,Funk
+Olivia Jesus,1994-09-16,oliviajesus@bol.com.br,69,GO,R,Samba
+Clara Farias,1975-07-18,,99,RS, Visual Basic . NET,Sertanejo
+Henrique Campos,1974-05-31,henriquecampos@yahoo.com.br,47,BA,R,Hip Hop
+Juan Mendes,1976-03-29,juanmendes@das.br,28,SE,C#,Samba
+Elisa Pereira,1955-04-19,elisapereira@da.com,69,TO,Python,Reggae
+Bruna Mendes,1962-12-30,,83,MA,Python,Forró
+Laura Campos,1980-06-21,lauracampos@cunha.com,15,PI,C,Hip Hop
+Heitor Ramos,1988-01-14,heitorramos@hotmail.com,5,SP,Java,MPB
+Benjamin Martins,1987-06-25,benjaminmartins@bol.com.br,29,SC,JavaScript,Blues
+Lorena Nascimento,1953-07-09,,47,ES,C,Samba
+Isis Barbosa,1982-12-16,isisbarbosa@gmail.com,65,MG,Objective-C,Funk
+Gabrielly Campos,1964-02-23,gabriellycampos@da.org,61,AL,Perl,Blues
+Alexandre Peixoto,1964-07-27,alexandrepeixoto@hotmail.com,29,GO,JavaScript,Pop
+Manuela Lopes,1998-11-14,,58,RR,Assembly,Samba
+Dra. Alexia Teixeira,1951-02-20,dra.alexiateixeira@dias.br,99,RO,PL/SQL,Sertanejo
+Dr. Ian da Mota,1971-01-18,dr.iandamota@almeida.com,44,AC,MATLAB,Sertanejo
+Guilherme Rocha,1997-02-20,guilhermerocha@gmail.com,11,MG,JavaScript,Rock
+Sarah Correia,1983-01-22,,48,PE,Assembly,Axé
+Dra. Isabelly Gomes,1991-08-23,dra.isabellygomes@vieira.org,67,MS,PHP,Forró
+Maria Sophia Nogueira,2001-04-18,mariasophianogueira@yahoo.com.br,69,RN,C++,Axé
+Sr. Kevin da Rosa,1988-01-28,sr.kevindarosa@cavalcanti.net,46,RO,C#,Blues
+Luiza da Mota,1958-01-23,,62,AP,C,Hip Hop
+Maria Clara da Costa,1973-02-04,mariaclaradacosta@bol.com.br,78,SP,Python,Música clássica
+Caroline Aragão,1953-06-01,carolinearagão@da.com,97,RS,C,MPB
+Dr. Heitor Pires,1961-04-14,dr.heitorpires@araujo.com,9,PA,Go,Rock
+Isabelly Costa,1972-10-23,,98,RR,Delphi / Object Pascal,MPB
+Alexandre Silva,1986-11-15,alexandresilva@da.br,93,CE,MATLAB,Pop
+Dra. Isis Duarte,1991-10-14,dra.isisduarte@alves.net,47,PI,JavaScript,Rock
+Igor Peixoto,1972-07-09,igorpeixoto@uol.com.br,25,TO,JavaScript,Gospel
+Arthur Silveira,1982-02-28,,44,PE,Ruby,Jazz
+Stephany Silveira,2002-01-27,stephanysilveira@uol.com.br,68,PI,Scratch,Axé
+Letícia Peixoto,1960-08-18,letíciapeixoto@azevedo.com,100,MA,Swift,Funk
+Sra. Caroline da Rosa,1969-01-08,sra.carolinedarosa@pinto.br,15,PB,Python,Pagode
+Sra. Agatha Moura,1952-04-28,,59,MT,C++,Country
+Levi Vieira,1990-06-21,levivieira@vieira.br,36,SC,Ruby,Jazz
+Caio Carvalho,1960-04-29,caiocarvalho@farias.net,61,PB,PHP,Forró
+Ana Clara Costela,1959-12-07,anaclaracostela@teixeira.br,7,PI,Scratch,Jazz
+Ian Cardoso,1971-05-01,,29,ES,PHP,Axé
+Dr. Heitor Alves,1972-01-16,dr.heitoralves@hotmail.com,81,AL,C++,Funk
+Cauã Correia,1969-06-08,cauãcorreia@farias.br,33,PI,PL/SQL,Funk
+Manuela Novaes,1951-08-04,manuelanovaes@ig.com.br,70,PB,Assembly,Música clássica
+Yago Carvalho,1976-05-19,,82,PA,Java,Eletrônica
+Rodrigo Fernandes,1951-06-17,rodrigofernandes@souza.com,25,MT,PL/SQL,Pagode
+Augusto da Rocha,1997-03-12,augustodarocha@ribeiro.br,45,AC,Visual Basic,MPB
+João Pedro Martins,1957-06-02,joãopedromartins@porto.br,75,CE,Assembly,Samba
+Sra. Ana Beatriz Ramos,1951-01-05,,22,AC,Python,Pop
+Ana Laura da Cunha,2002-11-03,analauradacunha@yahoo.com.br,4,RN,Python,Forró
+Levi Peixoto,1998-07-20,levipeixoto@hotmail.com,32,RJ,Objective-C,Axé
+Emilly da Mata,1974-07-09,emillydamata@hotmail.com,93,SE,C#,Reggae
+Ana Júlia Fernandes,1988-06-10,,52,SC,Objective-C,Gospel
+Milena Barros,1951-02-14,milenabarros@uol.com.br,42,GO,Perl,Rap
+Paulo Martins,1963-02-13,paulomartins@vieira.br,64,RN, Visual Basic . NET,Funk
+Luiz Miguel Ramos,1965-11-02,luizmiguelramos@ramos.com,76,AM,MATLAB,Blues
+Nicolas Castro,1958-05-15,,78,MS, Visual Basic . NET,Samba
+Guilherme Alves,1997-01-24,guilhermealves@gmail.com,13,SC,Ruby,Gospel
+Carolina Moraes,1986-03-18,carolinamoraes@moreira.com,22,PR,R,Pagode
+Samuel Viana,2001-10-03,samuelviana@yahoo.com.br,50,SC, Visual Basic . NET,Forró
+Davi Lucas da Paz,1971-01-06,,95,BA,Python,Country
+Sra. Ana Julia da Cunha,1960-12-29,sra.anajuliadacunha@uol.com.br,42,PB,Java,Hip Hop
+João Fogaça,1965-04-26,joãofogaça@da.com,60,MA,PL/SQL,MPB
+Dr. Luiz Felipe Farias,1972-04-02,dr.luizfelipefarias@almeida.com,85,SC,MATLAB,Axé
+Dra. Mirella Fogaça,1984-04-29,,87,MA,Assembly,Rap
+Dr. Juan Mendes,1954-06-15,dr.juanmendes@yahoo.com.br,44,AM,C,Country
+Alexandre Fernandes,1979-09-02,alexandrefernandes@gmail.com,51,DF,Perl,Reggae
+Bernardo Cunha,1984-07-04,bernardocunha@pires.com,51,MT,C,MPB
+Maria Vitória Vieira,1984-06-03,,91,AP,Objective-C,Pagode
+Larissa Correia,1977-09-28,larissacorreia@hotmail.com,60,ES,C#,Rock
+Clara da Rocha,1996-06-27,claradarocha@ramos.net,54,TO,Python,Forró
+Luiz Gustavo Ramos,1982-06-05,luizgustavoramos@nunes.br,21,MS,PL/SQL,Forró
+Benjamin Porto,1957-07-20,,82,MG,Assembly,Música clássica
+Augusto Pires,1984-10-20,augustopires@fernandes.com,79,PA,Assembly,Pagode
+Sr. Theo da Conceição,1974-03-28,sr.theodaconceição@das.com,35,RJ,Visual Basic,Forró
+Lucas Barros,1951-04-17,lucasbarros@bol.com.br,65,BA,Perl,Pagode
+Dr. Renan da Mota,1991-01-18,,9,PI, Visual Basic . NET,Funk
+Helena Castro,1951-08-03,helenacastro@gmail.com,39,AM,Python,Sertanejo
+Luiza Martins,1951-02-28,luizamartins@bol.com.br,14,GO,Visual Basic,Hip Hop
+Nicole Moraes,1967-01-01,nicolemoraes@yahoo.com.br,43,RJ,Java,Country
+Sophie Rodrigues,1972-08-14,,76,MA,C#,Música clássica
+João Vitor Oliveira,1975-06-10,joãovitoroliveira@uol.com.br,73,CE,C,Hip Hop
+Srta. Sarah Rezende,1998-09-21,srta.sarahrezende@silva.br,35,PI,Visual Basic,Reggae
+Bryan Moura,1950-08-13,bryanmoura@yahoo.com.br,3,MT,R,Gospel
+Francisco Caldeira,1995-05-30,,34,AL,PL/SQL,Samba
+Eduardo Pereira,1954-04-05,eduardopereira@bol.com.br,49,MS,JavaScript,Rap
+Ana Vitória Freitas,1965-01-28,anavitóriafreitas@farias.br,80,SP,PL/SQL,Pop
+Sr. Vicente Fernandes,1950-11-11,sr.vicentefernandes@bol.com.br,83,DF,R,Blues
+Joana Silva,2002-01-12,,74,PB,R,Rap
+Murilo da Luz,1983-10-25,murilodaluz@ig.com.br,87,RJ,Scratch,Country
+Cauê Moraes,1974-09-26,cauêmoraes@gmail.com,97,PR,Java,Samba
+Ana Júlia Gonçalves,1988-12-02,anajúliagonçalves@yahoo.com.br,90,SC,PL/SQL,Rap
+Fernando Lima,1964-12-25,,24,RS,PL/SQL,Jazz
+Vicente Fogaça,1972-06-23,vicentefogaça@yahoo.com.br,51,MA,Swift,Gospel
+Davi Luiz Souza,2003-02-18,daviluizsouza@gmail.com,35,RN,Java,Pop
+Sra. Sarah Caldeira,1950-11-13,sra.sarahcaldeira@uol.com.br,30,GO,C++,Sertanejo
+Beatriz Barros,1979-01-23,,99,RJ,Objective-C,Rap
+Maria Luiza da Conceição,1994-08-21,marialuizadaconceição@gmail.com,85,MT,Objective-C,Hip Hop
+Manuela Cardoso,1989-09-09,manuelacardoso@nascimento.br,99,ES,C,Pagode
+Stephany Farias,1982-03-02,stephanyfarias@da.net,53,TO,R,Eletrônica
+Emilly Ribeiro,1960-11-01,,97,ES,Swift,Gospel
+Noah Melo,1976-06-14,noahmelo@hotmail.com,9,SC,Go,MPB
+Srta. Alice Correia,1976-09-14,srta.alicecorreia@costa.com,27,PI,Go,Forró
+Vitor da Cunha,1958-10-13,vitordacunha@cardoso.br,8,RJ, Visual Basic . NET,Jazz
+Evelyn Campos,1981-11-10,,38,PI,Swift,Rock
+Alexia Nogueira,1964-05-25,alexianogueira@santos.br,70,SC,Swift,Gospel
+Dr. Juan da Rosa,1991-02-15,dr.juandarosa@uol.com.br,55,MG,PHP,Pop
+Luna Freitas,1976-10-03,lunafreitas@gmail.com,6,RS,JavaScript,Eletrônica
+Kaique Nogueira,1968-02-14,,0,RN,Swift,MPB
+Dr. Alexandre Almeida,1975-09-28,dr.alexandrealmeida@monteiro.br,90,PB,Perl,Jazz
+Clarice Costela,1974-04-18,claricecostela@ig.com.br,84,SP,C,Reggae
+João Felipe Gonçalves,1958-02-16,joãofelipegonçalves@araujo.br,1,PB,C,Funk
+Laura Moreira,1971-06-16,,84,AP,Assembly,Country
+Luiz Henrique Castro,1958-03-29,luizhenriquecastro@nogueira.br,89,RO,PHP,Eletrônica
+Dr. Bernardo Fogaça,1969-05-01,dr.bernardofogaça@yahoo.com.br,65,PB,Ruby,Hip Hop
+Srta. Mirella Nunes,1964-01-25,srta.mirellanunes@vieira.br,5,RR,Ruby,Samba
